@@ -1,2 +1,2 @@
-# my-first-react-app
+# react-app
 Created with CodeSandbox
